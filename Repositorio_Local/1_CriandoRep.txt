@@ -13,4 +13,7 @@ git branch <nome>
 -> Cria uma branch com nome <nome>
 
 git checkout <nome_branch>
--> 
+-> Altera para a branch com nome branch_nome
+
+git remote add origin https://github.com/MarcosPaulo10/Teste_Apresentacao.git
+-> Conecta o repositório local ao repositório remoto
