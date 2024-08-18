@@ -8,5 +8,13 @@ git push -u origin main
 Colaborador:
 
 - Sem acesso ao repositório -
-Criar um Fork
+Fork:
+Crie um Fork - Cópia do repositório remoto desejado para um repositório remoto próprio.
+
+Na sua máquina crie uma pasta, inicialize o repositório git. Adicione a origem do repositório remoto.
+
+git remote add origin <link>
+
+git pull -u <nome_branch>
+-> Puxa os arquivos do repositório remoto para seu repositório local.
 
