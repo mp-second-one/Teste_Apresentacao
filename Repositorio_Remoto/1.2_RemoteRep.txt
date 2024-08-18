@@ -1,0 +1,12 @@
+git remote add origin https://github.com/MarcosPaulo10/Teste_Apresentacao.git
+-> Conecta o repositório local ao repositório remoto
+
+git push -u origin main
+-> Envia/Empurra as alterações feitas do repositório local para o repositórioremoto
+
+-------------------------------------------------------
+Colaborador:
+
+- Sem acesso ao repositório -
+Criar um Fork
+
