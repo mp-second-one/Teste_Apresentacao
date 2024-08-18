@@ -1,0 +1,16 @@
+git init
+-> Iniciar um repositório Git em seu projeto.
+
+git add <arquivos>
+-> Colocar arquivos na área de staging
+
+git commit -m "<mensagem>"
+-> Colocar arquivos/alterações na área de staging
+
+git branch
+-> Verifica as branch
+git branch <nome>
+-> Cria uma branch com nome <nome>
+
+git checkout
+-> 
