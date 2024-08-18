@@ -10,5 +10,8 @@ git remote add origin <link>
 git pull origin <nome_branch>
 -> Puxa os arquivos do repositório remoto para seu repositório local.
 
+git branch -m <nome_branch_rep_rmeoto>
+-> Mude o nome da branch local criada para o mesmo nome da branch remota (provável que a branch local seja master então mude para main)
+
 git push origin main
 -> Envia/Empurra as alterações feitas do repositório local para o repositório remoto
