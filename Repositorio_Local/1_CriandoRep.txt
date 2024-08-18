@@ -12,5 +12,5 @@ git branch
 git branch <nome>
 -> Cria uma branch com nome <nome>
 
-git checkout
+git checkout <nome_branch>
 -> 
