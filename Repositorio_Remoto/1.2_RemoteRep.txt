@@ -15,6 +15,6 @@ Na sua máquina crie uma pasta, inicialize o repositório git. Adicione a origem
 
 git remote add origin <link>
 
-git pull -u <nome_branch>
+git pull origin <nome_branch>
 -> Puxa os arquivos do repositório remoto para seu repositório local.
 
